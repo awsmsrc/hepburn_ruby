@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hepburn
 
 TODO: Write a gem description
@@ -27,3 +28,9 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+=======
+hepburn_ruby
+============
+
+ruby clone of https://github.com/lovell/hepburn
+>>>>>>> 2b60edade943111846e94dc238b6b73329a6aeed
